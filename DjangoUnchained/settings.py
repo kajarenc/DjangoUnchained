@@ -37,6 +37,7 @@ INSTALLED_APPS = (
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'tarantinoApp',
+    'polls',
 )
 
 MIDDLEWARE_CLASSES = (
