@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="1757425448">
-    <data-source source="LOCAL" name="Django default" uuid="0a24ddb1-7a69-4e7d-bd27-823001b47d42">
+  <component name="DataSourceManagerImpl" format="xml" hash="3986568204">
+    <data-source source="LOCAL" name="Django default" uuid="1673bd65-a341-44a4-ad05-6c4e118bc5c1">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:D:\Projects\DjangoUnchained\db.sqlite3</jdbc-url>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/db.sqlite3</jdbc-url>
       <libraries>
         <library>
           <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/xerial-sqlite-license.txt</url>
